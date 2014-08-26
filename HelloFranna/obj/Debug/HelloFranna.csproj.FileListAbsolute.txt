@@ -1,6 +1,0 @@
-c:\users\francois.rademan\documents\visual studio 2013\Projects\HelloFranna\HelloFranna\bin\Debug\HelloFranna.exe.config
-c:\users\francois.rademan\documents\visual studio 2013\Projects\HelloFranna\HelloFranna\bin\Debug\HelloFranna.exe
-c:\users\francois.rademan\documents\visual studio 2013\Projects\HelloFranna\HelloFranna\bin\Debug\HelloFranna.pdb
-c:\users\francois.rademan\documents\visual studio 2013\Projects\HelloFranna\HelloFranna\obj\Debug\HelloFranna.csprojResolveAssemblyReference.cache
-c:\users\francois.rademan\documents\visual studio 2013\Projects\HelloFranna\HelloFranna\obj\Debug\HelloFranna.exe
-c:\users\francois.rademan\documents\visual studio 2013\Projects\HelloFranna\HelloFranna\obj\Debug\HelloFranna.pdb
